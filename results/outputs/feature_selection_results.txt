@@ -1,0 +1,45 @@
+MACHINE LEARNING FEATURE SELECTION RESULTS
+===========================================
+
+Dataset: Titanic Dataset
+
+Candidate Features:
+pclass
+age
+sibsp
+parch
+fare
+sex_encoded
+
+Variance Threshold:
+pclass: 0.6926
+age: 178.2988
+sibsp: 1.1625
+parch: 0.6944
+fare: 2737.0159
+sex_encoded: 0.2291
+
+Pearson Correlation:
+pclass: -0.3453
+age: -0.0767
+sibsp: -0.0399
+parch: 0.0934
+fare: 0.2631
+sex_encoded: 0.5331
+
+Chi-Square Test:
+sex_encoded: 200.0828
+
+ANOVA F-Test:
+age: 4.2067
+
+Mutual Information:
+sex_encoded: 0.1385
+
+Important Finding:
+sex_encoded showed the strongest Pearson correlation
+with the target variable (survived).
+
+pclass showed a negative correlation with survival.
+
+Feature selection and library verification were completed.
