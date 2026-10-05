@@ -201,7 +201,7 @@ The repository contains:
 ## 14. Google Colab Link
 
 **Colab Notebook:**  
-PASTE-YOUR-COLAB-LINK-HERE
+[Open Google Colab Notebook](https://colab.research.google.com/drive/1tXQbcXydEfV1VQ-JYtHAkSijHW_Nl_-r?usp=sharing)
 
 ## 15. Conclusion
 
