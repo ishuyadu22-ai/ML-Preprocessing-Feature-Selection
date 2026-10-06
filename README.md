@@ -18,8 +18,7 @@ The target variable is `survived`, which represents whether a passenger survived
 |---|---|---|
 | Nisha Yadav | 25225100018 | Data preprocessing, feature selection and documentation |
 | Mansi Tiwari | 25225100017 | Dataset research, result checking and project discussion |
-| Student 3 | __________ | __________ |
-| Student 4 | __________ | __________ |
+
 
 ## 4. Dataset Description
 
